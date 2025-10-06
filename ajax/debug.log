@@ -1,0 +1,70 @@
+DNI recibido: Array
+(
+    [dni] => 22222222B
+)
+
+Número de resultados: 1
+Resultados: Array
+(
+    [0] => Array
+        (
+            [Matricula] => 8ª-AL-3-000-30
+        )
+
+)
+
+DNI recibido: Array
+(
+    [dni] => 33333333C
+)
+
+Número de resultados: 0
+Resultados: Array
+(
+)
+
+DNI recibido: Array
+(
+    [dni] => 11111111A
+)
+
+Número de resultados: 1
+Resultados: Array
+(
+    [0] => Array
+        (
+            [Matricula] => 7ª-BA-2-000-10
+        )
+
+)
+
+DNI recibido: Array
+(
+    [dni] => 22222222B
+)
+
+Número de resultados: 1
+Resultados: Array
+(
+    [0] => Array
+        (
+            [Matricula] => 8ª-AL-3-000-30
+        )
+
+)
+
+DNI recibido: Array
+(
+    [dni] => 11111111A
+)
+
+Número de resultados: 1
+Resultados: Array
+(
+    [0] => Array
+        (
+            [Matricula] => 7ª-BA-2-000-10
+        )
+
+)
+
